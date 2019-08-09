@@ -1,2 +1,2 @@
-# leetcode
-Python LeetCode Tasks
+# Algorithm and Data Structures
+Solving tasks using it
