@@ -1,4 +1,4 @@
-def bubble_sort(m):
+def bubblesort(m):
     for i in range(0, len(m) - 1):
         done = True
         for j in range(0, len(m) - i - 1):
@@ -8,8 +8,3 @@ def bubble_sort(m):
         if done:
             return
 
-
-m = [5, 9, 1, 2, 4]
-print(m)
-bubble_sort1(m)
-print(m)
